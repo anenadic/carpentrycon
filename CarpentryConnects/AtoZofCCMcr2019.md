@@ -93,7 +93,7 @@ Image by: Jason Leung @ninjason [on Unsplash](https://unsplash.com/photos/N2JUQt
 In case of emergency, please contact the Welcome Team/organisers via phone **XX** (will be active only during the conference), email (XX) or [slack](https://ccmcr19.slack.com).
 
 Here is a list of few other emergency contacts:
-- Manchester Taxi service: +44 161 270 8701 (Uber is also available in the city)
+- Manchester Black Cab (can be hailed in the street): +44 (0)7940 072 596, +44 (0)7805 213 495; Manchester taxi service: +44 161 270 870; Uber is also available in the city
 - Emergency number: **999**
 - Non-emergency number: **101**
 - Ambulance and Emergency Services: +44 (0)161 276 1234
